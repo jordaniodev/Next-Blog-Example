@@ -67,4 +67,4 @@
     <li>O código de pagamento falso com o cartão 4242 4242 4242 4242</li>
 </ol>
 <h2>Demo</h2>
-<p>Para acessar a pagina demo basta acessar o link <a href="https://#/">https://#/</a></p>
+<p>Para acessar a pagina demo basta acessar o link <a href="https://blog-jordanio-dev.vercel.app/">https://blog-jordanio-dev.vercel.app/</a></p>
