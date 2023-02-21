@@ -41,8 +41,8 @@ export const linkResolver = (doc) => {
 
   prismicNext.enableAutoPreviews({
     client,
-    previewData: config.previewData,
-    req: config.req,
+    previewData: config['previewData'],
+    req: config['req'],
   })
 
   return client
