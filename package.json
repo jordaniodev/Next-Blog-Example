@@ -9,6 +9,9 @@
     "test": "jest",
     "lint": "next lint"
   },
+  "engines": {
+    "node":"^16.13.0"
+  },
   "dependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.20.11",
     "@prismicio/client": "^6.7.1",

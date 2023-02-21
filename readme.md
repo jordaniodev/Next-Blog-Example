@@ -24,8 +24,9 @@
    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
    <li><a href="https://babeljs.io/">Babel</a></li>
    <li><a href="https://pt-br.reactjs.org/">React JS</a></li>
-   <li><a href="https://www.netlify.com/">Netlify</a></li>
-   <li><a href="https://www.netlify.com/products/functions/">Netlify Functions</a></li>
+   <li><a href="https://nextjs.org/">Next</a></li>
+   <li><a href="https://next-auth.js.org/">Next Auth</a></li>
+   <li><a href="https://vercel.com/">Vercel</a></li>
 </ul>
 <h2>Recursos</h2>
 <ul>
