@@ -5,14 +5,14 @@
     .logo {
       cursor: pointer;
     }
-    .short-logo{
+    .shortLogo{
         display: none;
     }
     @media (max-width: 500px) {
         .logo{
             display: none;
         }
-        .short-logo{
+        .shortLogo{
             display: inherit;
         }
     }

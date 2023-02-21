@@ -8,7 +8,7 @@ export function Header() {
         <ActiveLink href="/" activeClassName={styles.logo}>
           <img src="/images/logo.svg" alt="Ig.news" />
         </ActiveLink>
-        <ActiveLink href="/" activeClassName={styles['short-logo']}>
+        <ActiveLink href="/" activeClassName={styles.shortLogo}>
           <img src="/images/short-logo.svg" alt="Ig.news" />
         </ActiveLink>
         <nav>
